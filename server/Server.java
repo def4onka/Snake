@@ -70,7 +70,7 @@ public class Server {
         }catch (ClassNotFoundException e) {
           System.out.println("Can't cast field");
         }
-        if(field[0][0]==-1) System.out.println("TRY TO END");
+
 
       }
 
